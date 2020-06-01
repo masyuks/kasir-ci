@@ -1,0 +1,23 @@
+           Kasir.com
+     Jl.Soekarno Hatta No.9,
+    Jatimulyo, Kec.Lowokwaru
+        Kota Malang 65141
+                             
+           TABLE:C2        
+Customer:Yuks	     Id Kasir:4
+-------------------------------
+-------------------------------
+1  Mie Tarik		 12000
+1  French Fries		 10000
+-------------------------------
+-------------------------------
+Subtotal 		 22000
+Ppn 			 2200
+-------------------------------
+TOTAL 			 24200
+Cash 			 25000
+Kembalian 		 800
+                             
+          Via tunai 
+<-----2020/05/14 16:52:07----->
+         Terima Kasih
